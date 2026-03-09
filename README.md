@@ -45,6 +45,7 @@ Waveform-Generator-with-Microcontroller-and-AD9833-IC
 ├── circuit/         # Circuit diagrams or schematics
 ├── images/          # Setup images or output waveform screenshots
 └── README.md        # Project documentation
+|__ Datasheet        # AD9833 IC Datasheet
 ```
 
 
